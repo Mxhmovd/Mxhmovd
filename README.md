@@ -17,4 +17,4 @@
 
 ![Mxhmovd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&layout=midnight-purple)](https://github.com/Mxhmovd/github-readme-stats)
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=Mxhmovd.Mxhmovd)
