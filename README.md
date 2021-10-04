@@ -15,6 +15,6 @@
 
 ## &#x1f4c8; GitHub Stats
 ![Mxhmovd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&theme=tokyonight)
+##
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
