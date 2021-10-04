@@ -14,6 +14,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&theme=midnight-purple)
-![Mxhmovd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=midnight-purple&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&theme=tokyonight)
+![Mxhmovd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=tokyonight&show_icons=true)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Mxhmovd.Mxhmovd)
