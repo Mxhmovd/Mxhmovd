@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![jeff-channing-tatum](https://user-images.githubusercontent.com/32795892/135889815-ae02f83f-2946-4174-ac62-890f549d2c94.gif)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/Mxhmovd?label=Followers&logo=Github)](https://github.com/Mxhmovd)
+
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,7 +16,11 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-![Mxhmovd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&theme=tokyonight)
-##
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Mxhmovd&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Mxhmovd&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxhmovd&hide=php&theme=tokyonight" />
+</a>
+</div>
