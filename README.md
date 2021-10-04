@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/Mxhmovd?label=Followers&logo=Github)](https://github.com/Mxhmovd)<br>
+<br>![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/Mxhmovd?label=Followers&logo=Github)](https://github.com/Mxhmovd)<br><br>
 ![jeff-channing-tatum](https://user-images.githubusercontent.com/32795892/135889815-ae02f83f-2946-4174-ac62-890f549d2c94.gif)
 
 ## 🔧 Technologies & Tools
